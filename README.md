@@ -24,6 +24,8 @@ define( 'WP_DEBUG', true );
 
 * [Debug bar](https://wordpress.org/plugins/debug-bar/)
 
+* [WP Tota11y](https://wordpress.org/plugins/wp-tota11y/)
+
 * [Releases](https://wordpress.org/download/releases/)
 
 * [Open Admin View Site in New Tab](https://wordpress.org/plugins/open-admin-view-site-in-new-tab/)
