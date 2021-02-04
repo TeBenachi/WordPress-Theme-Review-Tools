@@ -26,6 +26,10 @@ define( 'WP_DEBUG', true );
 
 * [Releases](https://wordpress.org/download/releases/)
 
+* [Open Admin View Site in New Tab](https://wordpress.org/plugins/open-admin-view-site-in-new-tab/)
+
+* [Japanese Lorem Block](https://wordpress.org/plugins/japanese-lorem-block/)
+
 #### Resources
 
 * [Licensing](https://make.wordpress.org/themes/handbook/review/resources/#licenses-bundled-resources)
