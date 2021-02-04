@@ -44,3 +44,29 @@ define( 'WP_DEBUG', true );
 * [Accessibility](https://make.wordpress.org/themes/handbook/review/accessibility/)
 
 * [Requirements](https://make.wordpress.org/themes/handbook/review/accessibility/required/)
+
+#### Theme submit/upload
+
+* [Theme submit/upload](https://wordpress.org/themes/getting-started/)
+
+* [Theme Trac](https://themes.trac.wordpress.org/query?priority=new+theme&status=new&status=reviewing&priority=previously+reviewed&keywords=!~child-theme&col=id&col=summary&col=status&col=time&col=changetime&col=reporter&report=2&order=time&owner=)
+
+
+#### Submit
+
+* [Submitting Plugin](https://developer.wordpress.org/plugins/wordpress-org/planning-your-plugin/)
+
+* [Using Subversion](https://developer.wordpress.org/plugins/wordpress-org/how-to-use-subversion/)
+
+
+
+
+
+
+
+
+
+
+
+
+
