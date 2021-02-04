@@ -1,2 +1,3 @@
-# WordPress-Theme-Review-Tools
-Tools to review WordPress themes
+##### WordPress Theme Review Tools
+
+###### [Theme Check](https://wordpress.org/plugins/theme-check/)
