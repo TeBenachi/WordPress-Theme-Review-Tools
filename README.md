@@ -62,6 +62,8 @@ define( 'WP_DEBUG', true );
 
 * [Submitting Plugin](https://developer.wordpress.org/plugins/wordpress-org/planning-your-plugin/)
 
+* [Updating theme](https://developer.wordpress.org/themes/release/submitting-your-theme-to-wordpress-org/#updating-your-theme)
+
 * [Using Subversion](https://developer.wordpress.org/plugins/wordpress-org/how-to-use-subversion/)
 
 
