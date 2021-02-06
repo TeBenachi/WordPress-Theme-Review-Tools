@@ -57,6 +57,8 @@ define( 'WP_DEBUG', true );
 
 * [Updating theme](https://developer.wordpress.org/themes/release/submitting-your-theme-to-wordpress-org/#updating-your-theme)
 
+* [Updating a theme that is 2+ years old ](https://wordpress.slack.com/archives/C02RP4Y3K/p1602761401462900)
+
 * [Theme Trac](https://themes.trac.wordpress.org/query?priority=new+theme&status=new&status=reviewing&priority=previously+reviewed&keywords=!~child-theme&col=id&col=summary&col=status&col=time&col=changetime&col=reporter&report=2&order=time&owner=)
 
 
