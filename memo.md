@@ -1,3 +1,8 @@
+#### Bulma CSS
+[Bulma CSS](https://bulma.io/)
+
+[MIT License](https://github.com/jgthms/bulma/blob/master/LICENSE)
+
 #### PureCSS Licensing
 
 PureCSS Licensing was mentione on [Slack #themereview](https://wordpress.slack.com/archives/C02RP4Y3K/p14267844270032530) channel on 3/19/15. BSD or Modified BSD are allowed. 
