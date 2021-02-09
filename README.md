@@ -14,7 +14,7 @@ define( 'WP_DEBUG', true );
 
 * [Theme Sniffer](https://github.com/WPTT/theme-sniffer)
 
-* [WPThemeReview Standard for PHP_CodeSniffer](https://github.com/WPTT/theme-sniffer)
+* <del>[WPThemeReview Standard for PHP_CodeSniffer]</del>(https://github.com/WPTT/theme-sniffer)
 
 * [Theme Unit Test (EN)](https://github.com/WPTT/theme-unit-test)
 
