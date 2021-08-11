@@ -7,7 +7,8 @@
 * [WP_DEBUG](https://developer.wordpress.org/themes/getting-started/setting-up-a-development-environment/#wp_debug)  
 
 ``` 
-define( 'WP_DEBUG', true ); 
+define( 'WP_DISABLE_FATAL_ERROR_HANDLER', true );   // 5.2 and later
+define( 'WP_DEBUG', true );
 ```
 
 * [Theme Check](https://wordpress.org/plugins/theme-check/)
